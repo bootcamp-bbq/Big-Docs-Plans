@@ -1,0 +1,99 @@
+sim: c#, dotnet core, mssql server, mongodb, docker, docker-compose, nuget, oAuth2, openidconnect, cloud (azure / aws), devops, SignalR
+
+	+ SOLID
+		=> DI (nativo)
+
+	+ GOF
+		=> Mediator
+		=> Singleton
+	
+	+ GRASP
+		=> Repository
+		=> Factory
+		=> Facade
+
+	+ Cloud
+		=> Design Patterns
+		=> Circuit Breaker
+		=> Graceful Degradation
+
+	+ Arquitetura
+		=> Microservicos
+		=> CQRS
+		=> REST/ful
+			- SOAP
+			- WCF
+		=> WebAPI / MVC
+		=> TDD/BDD
+		=> DDD
+
+
+talvez: kubernetes
+	+ Infra
+		HTTP/HTTPS
+		IIS
+		HTTP2 (gRPC)
+
+Seriam 4 encontros de 6 horas
+Divididos em 8 módulos de 3 horas cada
+
+==================================================================
+Dia 1
+==================================================================
+------------------------------------------------------------------
+Bloco 1
+------------------------------------------------------------------
+1. Apresentação, entendimento e overview
+2. Trabalhando
+Revisão: Hands On(artigos, guias etc)
+
+------------------------------------------------------------------
+Bloco 2
+------------------------------------------------------------------
+3. Definindo o projeto (Agile + Scrum + XP)
+
+==================================================================
+Dia 2
+==================================================================
+------------------------------------------------------------------
+Bloco 3
+------------------------------------------------------------------
+1. Definição de arquitetura + componentes
+2. Criando o esqueleto do projeto
+
+------------------------------------------------------------------
+Bloco 4
+------------------------------------------------------------------
+
+==================================================================
+Dia 3
+==================================================================
+------------------------------------------------------------------
+Bloco 5
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Bloco 6
+------------------------------------------------------------------
+
+==================================================================
+Dia 4
+==================================================================
+------------------------------------------------------------------
+Bloco 7
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Bloco 8
+------------------------------------------------------------------
+
+
+[14:37, 8/25/2019] Ricardo De Mauro: sim. repository
+[14:37, 8/25/2019] Murta 🐧: tipo active record ou entity framework ?
+
+[14:37, 8/25/2019] Murta 🐧: vamos fazer o seguinte: usuário e senha no postgresql ... dados do projeto efetivos no mongo
+
+[14:38, 8/25/2019] Ricardo De Mauro: tava querendo separar em dll's também.
+
+[14:38, 8/25/2019] Murta 🐧: a gente fala que vai ensinar a conectar no relacional, num projeto segregado usando CQRS e melhores práticas
+
