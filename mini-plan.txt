@@ -1,1 +1,30 @@
+1
+	apresentação participantes (instrutories + alunos)
+	apresentação do projeto bbq
+2
+	demonstração projeto
+3
+	apresentação desafio
+4
+	tira duvida
+5
+	tira duvida
+6
+	tira duvida
+	desenvolvimento do desafio
+7
+	apresentação do trabalho realizado
 
+
+- demonstração projeto
+	- demonstração do projeto funcionando
+	- conversar sobre a implementação (padrões utilizados, códigos mágicos, etc)
+	- implementação api github
+		- http factory client
+		- interface segreção
+		- padrões
+	
+- apresentação desafio
+	- marvel api apresentação
+	- conversa sobre arquitetura (camadas, interfaces, etc)
+	- tira dúvidas
