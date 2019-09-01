@@ -1,30 +1,49 @@
+---------------------V2---------------------
+
 1
-	apresentação participantes (instrutories + alunos)
-	apresentação do projeto bbq
+	apresentação participantes (instrutores + alunos)
+	apresentação do projeto bootcamp-bbq
+		arquiteturas
+		components
+		metodologia de desenvolvimento
+		scrum agil kanban
+		mercado trabalho
+		frontend
 2
-	demonstração projeto
-3
+	demonstração projeto tindev
+		- código backend
+		- frontend
+		- compilação
+		- debug
+		
 	apresentação desafio
+		quebrar tarefas
+			listar personagens
+			like personagem
+			remover like
+		dividir times (duplas)
+
+3		
+	instrutor (faz código, explicando e sem cópia)
+		-> desenvolve model (nome + foto + id)
+		-> desenvolve controller (action listar)
+		-> desenvolve query rq (query listagem + result)
+		-> desenvolve requesthandler (rq listagem)
+		-> desenvolve api (api marvel) (descomentar código)
+		-> listagem
 4
+	alunos
+		fazer listagem
 	tira duvida
 5
+	instrutor
+		fazer like
+	alunos
+		fazer like
+	
 	tira duvida
 6
-	tira duvida
-	desenvolvimento do desafio
-7
-	apresentação do trabalho realizado
-
-
-- demonstração projeto
-	- demonstração do projeto funcionando
-	- conversar sobre a implementação (padrões utilizados, códigos mágicos, etc)
-	- implementação api github
-		- http factory client
-		- interface segreção
-		- padrões
+	trabalhos futuros
+		- remover o like
 	
-- apresentação desafio
-	- marvel api apresentação
-	- conversa sobre arquitetura (camadas, interfaces, etc)
-	- tira dúvidas
+	apresentação do trabalho realizado
